@@ -146,6 +146,22 @@ h1{
 	right: -75px;
 }
 
+.button{
+	padding:10px 20px;
+	border: 1px solid gray;
+	
+}
+
+header div a{
+	text-decoration:none;
+	color: gray;
+}
+
+.button:hover{
+	background-color: gray;
+	color: #fff;
+	border-bottom: 2px solid black;
+}
 /* styling the content */
 
 h2{
